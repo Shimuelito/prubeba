@@ -1,0 +1,7 @@
+{
+  "name": "prubeba",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
